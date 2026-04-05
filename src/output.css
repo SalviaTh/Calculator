@@ -172,6 +172,12 @@
   }
 }
 @layer utilities {
+  .static {
+    position: static;
+  }
+  .start {
+    inset-inline-start: var(--spacing);
+  }
   .col-span-2 {
     grid-column: span 2 / span 2;
   }

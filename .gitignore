@@ -2,3 +2,7 @@
 /package-lock.json
 /package.json
 /.vscode
+/dist/index.html
+/dist/script.js
+/android
+/capacitor.config.json
